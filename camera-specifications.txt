@@ -1,0 +1,17 @@
+Hard- and Software specifications used in the image acqusition phase.
+
+Hardware:
+- camera 1
+  - Jai Go 5000C PGE
+  - Kowa LM25HC 1" 25mm F1.4
+- camera 2
+  - AV ALVIUM 1800U-1236C-CH-C 
+  - Kowa LM35FC
+
+Software:
+- AEC (Auto Exposure Control): Continuous
+- AWB (Auto White Balance): Continuous
+- AGC (Auto Gain Control): Continuous
+- AGC Max: 400
+- ALC-Reference (Auto Level Control): 25-60 
+- ALC Max: 10.000
