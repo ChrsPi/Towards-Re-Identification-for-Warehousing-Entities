@@ -6,7 +6,7 @@ The dataset "pallet-block-502", as presented in our publication, as well as the 
 This work is part of the project "Silicon Economy Logistics Ecosystem" which is funded by the German Federal Ministry of Transport and Digital Infrastructure.
 
 ## Dataset
-Download @ https://owncloud.fraunhofer.de/index.php/s/27CNdXJTPkyLdMt
+Download @ https://zenodo.org/record/6353714 (or https://owncloud.fraunhofer.de/index.php/s/27CNdXJTPkyLdMt)
 
 ## Camera Specifications
 See [camera-specifications.txt](https://github.com/ChrsPi/Towards-Re-Identification-for-Warehousing-Entities/blob/main/camera-specifications.txt)
